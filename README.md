@@ -111,6 +111,8 @@ SECONDORDER/
 │ └── pycache/
 └── README.md
 
+---
+
 ## Use Cases
 - Deployment risk analysis in CI/CD pipelines
 - A/B testing evaluation
